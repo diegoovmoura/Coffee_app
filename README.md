@@ -1,16 +1,5 @@
 # coffee_shop
 
-A new Flutter project.
+This is a challenge in Flutter that aims to replicate this coffee shop made by a designer in Figma
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+credits to the author: https://www.figma.com/file/ELytYSzmKz4YBPR7M6Y6Xn/Coffee-Shop-Mobile-App-Design-(Community)?type=design&node-id=2-2&mode=design&t=ERF0Hw7OjAIJ2JPq-0
